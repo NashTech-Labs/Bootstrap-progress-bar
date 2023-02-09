@@ -1,0 +1,18 @@
+.progress-bar {
+  height: 20px;
+  border-radius: 20px;
+}
+.progress {
+background-color: transparent !important;
+padding-top: 9px;
+height: 2rem;
+}
+.proficent-color{
+background-color: #FF6978;
+}
+.intermediate-color{
+background-color: #91A6DB;
+}
+.bigneer-color{
+background-color: #FFCE00;
+}
